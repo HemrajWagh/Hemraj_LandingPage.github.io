@@ -167,108 +167,21 @@
     </header>
 
 
- <!--    <style type="text/css">
-      .section-about .skills-charts {
-          width: 60%;
-          -webkit-box-flex: 1;
-          -ms-flex: 1 1 auto;
-          flex: 1 1 auto;
-          position: absolute;
-          top: 0;
-          bottom: 0;
-          right: 0;
-      }
-      .section-about #myCanvasContainer {
-          position: relative;
-          height: 100%;
-          width: 100%;
-          display: -webkit-box;
-          display: -ms-flexbox;
-          display: flex;
-          -webkit-box-align: center;
-          -ms-flex-align: center;
-          align-items: center;
-          -webkit-box-pack: center;
-          -ms-flex-pack: center;
-          justify-content: center;
-      }
-      .section-about #myCanvas {
-          margin: auto;
-          width: 100%;
-      }
-    </style>
-
-    <div class="skills-charts">
-      <div id="myCanvasContainer">
-        <canvas width="500" height="500" id="myCanvas">
-          <ul>
-            <li> <a data-weight="25" href="https://en.wikipedia.org/wiki/HTML" target="_blank">HTML</a></li>
-            <li><a data-weight="25" href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">CSS</a></li>
-            <li><a data-weight="25" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">ES5/ES6</a></li>
-            <li><a data-weight="25" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank">TypeScript</a></li>
-            <li><a data-weight="24" href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">REST</a></li>
-            <li><a data-weight="14" href="https://en.wikipedia.org/wiki/JSON" target="_blank">JSON</a></li>
-            <li><a data-weight="13" href="https://en.wikipedia.org/wiki/XML" target="_blank">GSAP</a></li>
-            <li><a data-weight="14" href="https://en.wikipedia.org/wiki/Data_science" target="_blank">Data Science</a></li>
-            <li><a data-weight="26" href="https://en.wikipedia.org/wiki/WordPress" target="_blank">Wordpress</a></li>
-            <li><a data-weight="26" href="https://en.wikipedia.org/wiki/PHP" target="_blank">PHP</a></li>
-            <li><a data-weight="26" href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank">Python</a></li>
-            <li><a data-weight="21" href="https://en.wikipedia.org/wiki/Node.js" target="_blank">Node JS</a></li>
-            <li><a data-weight="17" href="https://en.wikipedia.org/wiki/Git" target="_blank">Git</a></li>
-            <li><a data-weight="17" href="" target="_blank">_lodash</a></li>
-            <li><a data-weight="23" href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank">Bootstrap</a></li>
-            <li><a data-weight="15" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)" target="_blank">SASS</a></li>
-            <li><a data-weight="24" href="https://reactjs.org/" target="_blank">ReactJS</a></li>
-            <li><a data-weight="12" href="https://en.wikipedia.org/wiki/JQuery" target="_blank">jQuery</a></li>
-            <li><a data-weight="26" href="http://mongoosejs.com/" target="_blank">SQl</a></li>
-            <li><a data-weight="19" href="http://gulpjs.com/" target="_blank">Gulp</a></li>
-            <li><a data-weight="19" href="https://www.npmjs.com/" target="_blank">npm</a></li>
-            <li><a data-weight="19" href="https://en.wikipedia.org/wiki/BEM" target="_blank">BEM</a></li>
-          </ul>
-        </canvas>
+    <div class="container txtshadow hero" style=""  >
+      <div ></div>
+      <div class="col-lg-6 col-sm-12 float-bob" style="background-image: url(images1/pic1.webp);z-index: 99; " ><img class="float-bob" src="images1/man.png"></div>
+      <div class="col-lg-6 col-sm-12">
+        <h1 class="head">" Empower Your Vision With <br> Our Solutions. "</h1>
+        <h4>We appreciate your trust in us.</h4>
+        <!-- <h2>Our executive will contact you shortly !!!</h2> -->
+          <div  style=""> <a href=" " class="btn btn-lg shadowbtn "style="  border-left:4px solid #ffb900;text-shadow: 0px 3px 12px #c3c3c3; ">BROWSE OUR WORK</a></div>
         </div>
-        <div class="clear"></div>
+      </div>
     </div>
 
-
- -->
-
-    <!-- <div id="clients"style="background-image:url(images1/bk2.jpg)" > -->
-     <div class="section primary-section skills-charts"style="">
-      <div id="myCanvasContainer" class="container">
-
-       <div class="row"class="float-bob-x" style="background-image:url(images1/pattern5.png); " >
-        <img  src="images1/3banner.png" class="float-bob-y" alt="" style="position: relative;  display: block; margin:;top:100px;height:100%; width: 100%;">
-        <div class="col-lg-12 col-sm-6" >
-         <!-- <div id='cursor'></div> -->
-         <div class="canvas" style="display: block; margin:0 auto; margin-top: -400px; "  width="100" height="100">
-           <ul class='tags-cloud'>
-             <li class='tag'><span class='wrap'>Trademark</span></li>
-             <!-- <li class='tag'><span class='wrap'>Copyright</span></li> -->
-             <li class='tag'><span class='wrap'>Trademark</span></li>
-             <li class='tag'><span class='wrap'>Copyright</span></li>
-             <!-- <li class='tag'><span class='wrap'>Trademark</span></li> -->
-             <li class='tag'><span class='wrap'>Copyright</span></li>
-             <!-- <li class='tag'><span class='wrap'>Patent</span></li> -->
-             <li class='tag'><span class='wrap'>Copyright</span></li>
-             <!-- <li class='tag'><span class='wrap'>Patent</span></li> -->
-             <!-- <li class='tag'><span class='wrap'>Company <br><br>Formation</span></li> -->
-             <li class='tag'><span class='wrap'>Patent</span></li>
-             <li class='tag'><span class='wrap'>Company <br><br>Formation</span></li>
-             <!-- <li class='tag'><span class='wrap'>Company <br><br>Formation</span></li> -->
-             <!-- <li class='tag'><span class='wrap'>Patent</span></li> -->
-             <li class='tag'><span class='wrap'>ISO</span></li>
-             <li class='tag'><span class='wrap'>Company <br><br>Formation</span></li>
-             <li class='tag'><span class='wrap'>ISO</span></li>
-             <li class='tag'><span class='wrap'>Website <br><br> Design</span></li>
-
-           </ul>
-
-         </div>
-
-       </div>    
-     </div>
-     <br><br><br><br><br><br><br>
+<br><br>
+     <div class="container">
+     
      <div class="main_history fadeInUp" style="">
       <div class="col-lg-6 col-sm-6" style="border-right: 1px solid #ffb900;">
 
@@ -279,7 +192,7 @@
 
             <div class="container" style="display: flex;">
               <div class="col" style="display: flex; justify-content: center;align-items: center;" >
-                <img src="images1/tiaup/axis.jpeg" style="border-radius: 10px;"   alt="Logo 1" width="100%" class="shadowbtn">
+                <img src="images1/tiaup/axis.jpeg"  style="border-radius: 10px;"   alt="Logo 1" width="100%" class="shadowbtn">
               </div>
               <div class="col"style="display: flex; justify-content: center;align-items: center;">
                 <img src="images1/tiaup/just.jpeg" style="border-radius: 10px; " alt="Logo 2" width="100%" class="shadowbtn">
@@ -332,6 +245,8 @@
              </div>
            </div>
          </div>
+
+        </div>  
  <!-- <div class="container">
   <div class="row">
     
