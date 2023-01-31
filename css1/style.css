@@ -768,7 +768,7 @@ color: #ffb900;;
 }
 #gtco-footer .company-nav, #gtco-footer .services-nav {
   font-family: "OpenSans-Regular";
-  font-size: 20px;
+  /*  font-size: 20px;*/
 }
 #gtco-footer .company-nav a, #gtco-footer .services-nav a {
   color: #fff;
@@ -792,7 +792,7 @@ color: #ffb900;;
 }
 #gtco-footer .col-12 p {
   font-family: "Lato-Regular";
-  font-size: 18px;
+   /*  font-size: 18px; */
   color: #999999;
 }
 @media (max-width: 991px) {
